@@ -4,7 +4,7 @@ description: Transform overwhelming long-term challenges into sustainable daily 
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.4665
+  version: 1.0.4666
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - persistent-process-framework
